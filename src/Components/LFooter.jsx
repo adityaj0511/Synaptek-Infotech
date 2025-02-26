@@ -37,10 +37,10 @@ const LFooter = () => {
         <div className="footer-links">
           <h3>Quick Links</h3>
           <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/services">Services</a></li>
-            <li><a href="/contact">Contact</a></li>
+            <li><a href="/">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
            
           </ul>
         </div>
@@ -49,7 +49,7 @@ const LFooter = () => {
 
       {/* Bottom Footer */}
       <div className="footer-bottom">
-        <p>&copy; 2025 SynapTech Infotech. All Rights Reserved.</p>
+        <p>&copy; 2025 SynapTek Infotech. All Rights Reserved.</p>
         <div className="footer-policy">
           <a href="#">Terms of Use</a>
           <a href="#">Privacy Policy</a>
